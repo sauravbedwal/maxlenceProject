@@ -5,7 +5,7 @@ import Home from './Home';
 import SignUpPage from './SignUpPage';
 import RegistrationForm from './RegistrationForm';
 import ResetPassword from './ResetPassword';
-
+// check
 const App = () => {
   return (
     <Router>
